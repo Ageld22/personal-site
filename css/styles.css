@@ -1,0 +1,164 @@
+body {
+  color: #40514E;
+  margin: 0;
+  line-height: 2;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #1380ba;
+  margin: 35px;
+  margin-bottom: 0;
+  font-family: 'Amatic SC', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #1380ba;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #1380ba;
+}
+
+hr {
+  border: 0;
+  border-top: 5px;
+  border-style: dotted;
+  width: 4%;
+  border-top-width: 9px;
+  color: #fd9b41;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  left: 65%;
+}
+
+
+.personal-picture {
+  width: 25%;
+}
+
+.profile {
+   width: 50%;
+   text-align: center;
+   margin: 10px auto 100px auto;
+ }
+
+.bottom-cloud {
+  position: absolute;
+  top: 325px;
+  left: 20%;
+}
+
+.work {
+  color: #1380ba;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+
+/* CSS font-size conversion => 100% = 16px = 1rem/em */
+
+.top-container {
+  background-color: #fd9b41;
+  color: #1380ba;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+}
+
+.middle-container {
+  padding-top: 25px
+}
+
+.bottom-container {
+  background-color: #1380ba;
+  color: #fd9b41;
+  padding: 20px;
+  margin: 0;
+}
+
+.flydubai {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.plane {
+  width: 25%;
+  float: left;
+  margin-right: 60px;
+  padding-bottom: 60px
+}
+
+.dubai {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.ligne-bas {
+  margin: 0;
+}
+
+.footer-link {
+  color: #fd9b41;
+}
+
+.skills {
+  margin: 100px auto 100px auto;
+}
+
+.contact-me {
+  margin: 100px auto 75px auto;
+}
+
+.hauteur {
+  width: 40%;
+  margin: 25px auto 60px;
+  height: 35px;
+}
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 16px;
+  padding: 14px 6px;
+  border-radius: 39px;
+  background: #1380BA;
+  background: linear-gradient(to top, #1380BA, #3BA3FF);
+  margin: 40px auto 10px auto;
+  text-decoration: none;
+}
+.btn:hover {
+  color: #FD9B41;
+  background: #1380BA;
+  background: linear-gradient(to top, #1380BA, #3BA3FF);
+}
+
+.caca {
+  margin: 25px auto 25px auto;
+}
+
+.footer-link {
+  text-decoration: none;
+  margin: auto 10px auto 10px;
+}
+
+.footer-link:hover {
+  color: #ffff;
+}
+
+.copy {
+  color: white;
+  font-size: 0.75rem;
+}
